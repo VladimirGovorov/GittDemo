@@ -12,6 +12,11 @@ public class day2 {
 		System.out.println("bad");
 		System.out.println("amazing");
 		
+		
+		System.out.println("1");
+		System.out.println("2");
+		System.out.println("3");
+		
 	
 	}
 	@BeforeTest
