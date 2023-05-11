@@ -23,5 +23,16 @@ public class day2 {
 	public static void prereq()
 	{
 	System.out.println("I will execute first");
+	System.out.println("will execute last");
+	System.out.println("I will execute second");
+	}
+	
+	
+	@BeforeTest
+	public static void prereq2()
+	{
+	System.out.println("I will execute first");
+	System.out.println("will execute last");
+	System.out.println("I will execute second");
 	}
 	}
