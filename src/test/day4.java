@@ -22,4 +22,10 @@ public class day4 {
 	{
 		System.out.println("loginapihome");
 	}
+	
+	@Test
+	public void loginAPIHomeLoan2()
+	{
+		System.out.println("loginapihome");
+	}
 }
